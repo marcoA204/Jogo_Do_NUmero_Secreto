@@ -144,9 +144,3 @@ function reiniciarJogo(){
     exibirMensagemInicial();
     document.getElementById('reiniciar').setAttribute('disabled',true);
 }
-function olaMundo() {
-    console.log("Olá, Mundo!");
-}
-
-olaMundo();
->>>>>>> 717e155 (consegui)
